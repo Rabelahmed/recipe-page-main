@@ -17,8 +17,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-page-GAOZUQG3Fa)
+- Live Site URL: [Live Site](https://rabelahmed.github.io/recipe-page-main/)
 
 ### Built with
 
